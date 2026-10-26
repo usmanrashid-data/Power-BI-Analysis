@@ -129,3 +129,6 @@ Through this project, I gained practical experience in:
 This project demonstrates how Power BI can be used to transform retail and sales data into interactive, visually engaging, and actionable business reports. By combining DAX calculations, interactive filtering, KPI monitoring, and dashboard design, I was able to uncover trends, evaluate performance, and present insights that support informed decision-making.
 
 📊 Data → 🧮 Analysis → 📈 Visualisation → 📖 Storytelling → 🚀 Insights
+
+## My Dashboard
+(https://app.powerbi.com/view?r=eyJrIjoiMWY1ZDEzNTktNTA3YS00NDYzLWI4MzEtMGEwNzg2MjY4MjI0IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
