@@ -4,9 +4,9 @@
 
 This project was completed during a Data Technician Bootcamp and demonstrates the use of Microsoft Power BI to transform raw retail and sales data into meaningful business insights.
 
-Using Power Query, DAX, and interactive dashboards, I cleaned and prepared datasets, created calculated measures, and developed visually engaging reports to uncover trends, monitor performance, and support data-driven decision-making.
+Using Power Query, DAX, and interactive reporting features, I cleaned and prepared datasets, created calculated measures, and developed visual reports to identify trends, monitor performance, and support data-driven decision-making.
 
-The project focused on combining data analysis with storytelling techniques to communicate insights clearly through interactive reports and dashboards.
+The project focused on combining technical data analysis skills with effective data storytelling to communicate findings clearly and visually.
 
 ---
 
@@ -14,19 +14,20 @@ The project focused on combining data analysis with storytelling techniques to c
 
 ### 🔄 Data Transformation & Cleaning
 
-* Importing and transforming data using Power Query
-* Cleaning and standardising datasets
-* Handling missing and inconsistent values
-* Creating relationships between tables
-* Preparing data for analysis and reporting
+* Power Query
+* Data Cleaning
+* Data Transformation
+* Handling Missing Values
+* Data Preparation
+* Data Modelling
 
 ### 🧮 DAX (Data Analysis Expressions)
 
 * Calculated Columns
 * Custom Measures
-* Aggregations and KPIs
-* Performance Metrics
-* Business Logic Implementation
+* Business Calculations
+* KPI Development
+* Data Analysis
 
 ### 📊 Data Visualisation
 
@@ -41,78 +42,75 @@ The project focused on combining data analysis with storytelling techniques to c
 
 * Slicers
 * Filters
-* Cross-filtering Visuals
-* Drill-Down Functionality
-* Dynamic Report Navigation
+* Cross-Filtering
+* Drill-Down Analysis
+* Report Navigation
 
 ### 📈 Data Analysis
 
 * Retail Sales Analysis
 * Trend Analysis
 * Product Performance Monitoring
+* Revenue Tracking
 * Geographic Analysis
-* Revenue and Profit Tracking
 * Data Storytelling
 
 ---
 
 ## 🎯 Project Highlights
 
-### 🛒 Retail Sales Performance Analysis
+### 🔄 Data Preparation with Power Query
 
-Analysed retail sales data to identify trends, monitor product performance, and evaluate business outcomes across different categories and regions.
+Used Power Query to clean, transform, and prepare datasets for analysis. This included organising data, resolving quality issues, and structuring information to support reporting and dashboard creation.
 
-Key insights included:
+### 📊 Interactive Report Design
 
-* Revenue and sales performance tracking
-* Product category analysis
-* Customer purchasing trends
-* Regional sales comparisons
-* Identification of top-performing products
+Developed Power BI reports featuring interactive filters and slicers, allowing users to explore data dynamically and gain deeper insights into sales and business performance.
 
-### 🌍 Geographic Analysis
+### 🧮 DAX-Based Analysis
 
-Used map visualisations to explore sales performance across different locations and identify regional opportunities and trends.
+Created calculated columns and measures using DAX to generate custom business metrics, automate calculations, and provide valuable analytical insights.
 
-### 📊 Interactive Dashboard Development
+### 📈 Data Storytelling
 
-Built interactive reports allowing users to filter and explore data dynamically using slicers, filters, and dashboard interactions.
-
-### 🧮 DAX-Powered Insights
-
-Created calculated columns and measures to generate business metrics, automate calculations, and provide deeper analytical insights.
+Combined multiple visualisation types to present data clearly and effectively, helping users understand trends, compare performance, and make informed decisions.
 
 ---
 
 ## 📸 Key Screenshots
 
-### 📊 Sales Performance Dashboard
+### 🔄 Power Query Data Transformation
 
-images/sales-performance-dashboard.png
+[Power Query Data Transformation]
 
-An interactive Power BI dashboard showcasing sales trends, revenue performance, and key business metrics through a combination of charts, KPI cards, and filters.
+<img width="600" height="302" alt="image" src="https://github.com/user-attachments/assets/64463695-3a31-4aa1-81f4-1c5e6f825c22" />
+
+
+This screenshot demonstrates the use of Power Query to clean and transform raw data before analysis. Data preparation is a critical step in the reporting process, ensuring accuracy, consistency, and reliability in business intelligence solutions.
 
 ---
 
-### 🌍 Regional Sales Analysis
+### 📊 Interactive Power BI Report
 
-images/regional-sales-analysis.png
+[Interactive Power BI Dashboard]
 
-A location-based analysis using map visualisations and interactive filtering to compare sales performance across different regions.
+<img width="600" height="302" alt="image" src="https://github.com/user-attachments/assets/1dbeea6d-9ed0-4fcc-a4bc-a77d0b5e8d84" />
+
+This dashboard showcases interactive reporting features such as filters, slicers, and visualisations. Multiple charts work together to highlight trends, compare performance, and support data-driven decision-making through effective data storytelling.
 
 ---
 
 ## 💡 Key Learning Outcomes
 
-Through this project, I developed practical experience in:
+Through this project, I gained practical experience in:
 
 * Cleaning and transforming data using Power Query
 * Creating data models and relationships
 * Building DAX calculated columns and measures
-* Designing interactive reports and dashboards
-* Creating effective visualisations
+* Developing interactive reports and dashboards
+* Creating impactful visualisations
 * Using data storytelling techniques to communicate insights
-* Supporting data-driven decision-making through business intelligence
+* Supporting business decisions through data analysis
 
 ---
 
@@ -121,8 +119,8 @@ Through this project, I developed practical experience in:
 * Microsoft Power BI
 * Power Query
 * DAX (Data Analysis Expressions)
-* Interactive Dashboards
 * Data Modelling
+* Interactive Dashboards
 * Data Visualisation Techniques
 * Business Intelligence Reporting
 
@@ -130,6 +128,6 @@ Through this project, I developed practical experience in:
 
 ## ✅ Conclusion
 
-This project demonstrates how Power BI can be used to transform raw retail and sales data into interactive, insightful, and visually engaging reports. By combining data transformation, DAX calculations, and dashboard design, the project highlights the ability to uncover trends, communicate findings effectively, and support business decision-making through data.
+This project demonstrates how Power BI can be used to transform raw retail and sales data into interactive, insightful, and visually engaging reports. By combining data transformation, DAX calculations, visualisation techniques, and storytelling principles, I was able to uncover trends, communicate findings effectively, and support data-driven decision-making.
 
-📊 Data → 🔄 Transformation → 🧮 Analysis → 📖 Storytelling → 🚀 Insights
+📊 Data → 🔄 Transformation → 🧮 Analysis → 📈 Visualisation → 🚀 Insights
