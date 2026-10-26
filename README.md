@@ -77,7 +77,7 @@ Combined multiple visualisations into interactive dashboards that allowed users 
 
 ## 📸 Key Screenshots
 
-### 📊 Interactive Sales Performance Dashboard
+### 📊 Interactive Retail Sales Dashboard
 
 [Interactive Sales Dashboard]
 
